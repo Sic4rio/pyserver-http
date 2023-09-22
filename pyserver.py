@@ -35,6 +35,7 @@ def start_server(port):
 ╦ ╦╔╦╗╔╦╗╔═╗   ╔═╗╔═╗╦═╗╦  ╦╔═╗╦═╗
 ╠═╣ ║  ║ ╠═╝───╚═╗║╣ ╠╦╝╚╗╔╝║╣ ╠╦╝
 ╩ ╩ ╩  ╩ ╩     ╚═╝╚═╝╩╚═ ╚╝ ╚═╝╩╚═
+            -SCARIO-
     """
     print(colored(banner, 'green'))
     print(f"Server started on port {port}...")
